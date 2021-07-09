@@ -1,0 +1,7 @@
+PKG core_kernel
+PKG bap
+PKG cmdliner
+PKG ppx_jane
+PKG bap_ssa_graph
+PKG bap-term-manip
+FLG -short-paths
